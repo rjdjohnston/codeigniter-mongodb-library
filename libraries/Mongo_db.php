@@ -13,7 +13,7 @@
  * @link		http://alexbilbie.com
  * @version		Version 0.4.5
  * 
- * Added hotness
+ * Added dbref/date by RJ Johnston (rjjohnston.me)
  *
  * Thanks to Kyle Dye (kyledye.com), Nick Jackson (nickjackson.me), Mikhail Kozlov (mikhailkozlov.com) and Phil Sturgeon (philsturgeon.co.uk) for additional help
  */
